@@ -11,10 +11,13 @@ Keep track of the record of public officials over time
 
 # Long Term Goal: Implement a robust Object Oriented Fact Library
   1. Build an Organizational Framework That:
-    i.  Monitors The Official Channels for Statements and Releases
-    ii. Maintains A Current Network of Critical Agents and Their Own Statement History
+    
+    a.  Monitors The Official Channels for Statements and Releases
+    
+    b. Maintains A Current Network of Critical Agents and Their Own Statement History
       
-    iii. Aggregates Pertinent Documents and Primary Sources. 
-    iv.  Links Documents to Related Parties. E.g. Maps all historical rulings to a Surpreme Court Judge. 
+    c. Aggregates Pertinent Documents and Primary Sources. 
+    
+    d.  Links Documents to Related Parties. E.g. Maps all historical rulings to a Surpreme Court Judge. 
     
 
