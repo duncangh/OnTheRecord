@@ -9,7 +9,9 @@ Keep track of the record of public officials over time
   
 ### Check out NYTimes Politics.ipynb
 
-# Long Term Goal: Implement a robust Object Oriented Fact Library
+# Long Term Goal: 
+# Implement a robust Object Oriented Fact Library
+
   1. Build an Organizational Framework That:
     
     a.  Monitors The Official Channels for Statements and Releases
