@@ -19,7 +19,6 @@ class Briefings:
     def loop_sections(self):
 
 
-
     def scrape_speeches(self):
         """Scrape all of the speeches available on the White House Page"""
         # Dictionary holding the title of speech/address : content of it

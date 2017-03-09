@@ -1,0 +1,13 @@
+1. Tokenize one large string from a text file into sentences
+2. Tokenize sentences into POS components
+3. Classify text source meta information. For example:
+    i. The overall tense of piece
+    ii. The default speaker/subject. Is it first person singular / first person plural etc
+
+
+1. Tokenize file into sentences:
+    text =  open(file.txt, r).read()
+    sents = nltk.sent_tokenize(text)
+
+from nltk import pos_tag, word_tokenize
+pos_tag(word_tokenize(sentence))
