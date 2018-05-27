@@ -21,5 +21,3 @@ Keep track of the record of public officials over time
     c. Aggregates Pertinent Documents and Primary Sources. 
     
     d.  Links Documents to Related Parties. E.g. Maps all historical rulings to a Surpreme Court Judge. 
-    
-
